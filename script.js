@@ -49,7 +49,7 @@ ScrollReveal().reveal('#college,#skillpart1,.about p,.home p', { origin: 'right'
 
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Developer bro', 'AI Enthusiast', 'Flute Player'],
+    strings: ['Developer bro', 'an AI Enthusiast', 'Flute Player'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
